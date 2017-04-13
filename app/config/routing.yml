@@ -1,0 +1,2 @@
+app:
+    resource: '@ReactAdminBundle/Resources/config/routing.yml'
